@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sibani Gantayet</h1>
-<h3 align="center">A passionate software Engineer from India.ia</h3>
+<h3 align="center">A passionate software Engineer from India.</h3>
 
 <img align="right" alt="coding" width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gifimages.pics%2Ftags%2Fworking.php&psig=AOvVaw1pZg_S5wWxfXolaJ4w5fbO&ust=1683616835190000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCNms6X5f4CFQAAAAAdAAAAABAE">
 
